@@ -1,5 +1,5 @@
 # Thriftttourist 
 # An attractive trip planning landing page
-# Landing used
+# Landing Web Page Language is used
  -HTML
  -CSS
